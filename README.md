@@ -14,6 +14,8 @@
 
 ### Webpack及工程化
 
+1. [重新认识 package.json] (https://juejin.im/post/5ebcd8b1e51d454dc20dd8a0#heading-15)
+
 ### 项目
 
 - [ ] content
